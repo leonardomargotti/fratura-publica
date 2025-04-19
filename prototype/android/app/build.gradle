@@ -1,0 +1,17 @@
+// Arquivo de configuração do Android
+android {
+    defaultConfig {
+        applicationId "com.manus.fracture_classifier"
+        minSdkVersion 21
+        targetSdkVersion 33
+        versionCode 1
+        versionName "1.0.0"
+    }
+}
+
+// Arquivo de configuração do iOS
+ios {
+    bundleId "com.manus.fracture-classifier"
+    buildNumber "1"
+    version "1.0.0"
+}
